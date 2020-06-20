@@ -14,4 +14,7 @@
 　好きな場所で様々なポーズや表情をとらせることができます。通常のモデルに加えて、猫耳尻尾が付いたモデルを含んでいます。 
  
 ### 概要イメージ
-![イメージ](https://github.com/knanaappdevelops/An-app-that-lets-you-date-Kaguranana_HP/blob/master/image1.png)
+#### VRモード  
+![イメージ1](https://github.com/knanaappdevelops/An-app-that-lets-you-date-Kaguranana_HP/blob/master/Simulator%20Screen%20Shot%20-%20iPad%20Pro%20(12.9-inch)%20(4th%20generation)%20-%202020-06-20%20at%2010.07.07.png)  
+#### ARモード  
+![イメージ2](https://github.com/knanaappdevelops/An-app-that-lets-you-date-Kaguranana_HP/blob/master/Simulator%20Screen%20Shot%20-%20iPad%20Pro%20(12.9-inch)%20(4th%20generation)%20-%202020-06-20%20at%2010.09.10.png)  
