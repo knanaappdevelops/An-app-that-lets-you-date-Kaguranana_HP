@@ -3,11 +3,11 @@
 　カグラナナを現実世界に呼び出して写真を撮ることができるARアプリです。  
 　このアプリは、ななかぐら/カグラナナより3Dモデルの提供を受けて制作されました。ななかぐら/カグラナナについての情報は以下のリンクを参照ください。
  
-・youtubeチャンネル  
+・ななかぐら/カグラナナyoutubeチャンネル  
 　https://www.youtube.com/channel/UCbfv8uuUXt3RSJGEwxny5Rw  
-・Twitterアカウント  
+・ななかぐら/カグラナナTwitterアカウント  
 　https://twitter.com/nana_kaguraaa  
-・ホームページ  
+・ななかぐら/カグラナナホームページ  
 　https://stellalucia.site/  
  
 ## 機能
