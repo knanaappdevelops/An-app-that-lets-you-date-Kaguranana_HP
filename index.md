@@ -1,5 +1,5 @@
 # カグラナナとデートできるアプリ
-### 説明
+## 説明
 　カグラナナを現実世界に呼び出して写真を撮ることができるARアプリです。
 　このアプリは、ななかぐら/カグラナナより3Dモデルの提供を受けて制作されました。ななかぐら/カグラナナについての情報は以下のリンクを参照ください。
  
@@ -10,11 +10,11 @@
 ・ホームページ  
 　https://stellalucia.site/  
  
-### 機能
+## 機能
 　好きな場所で様々なポーズや表情をとらせることができます。通常のモデルに加えて、猫耳尻尾が付いたモデルを含んでいます。 
  
-### 概要イメージ
-#### VRモード  
+## 概要イメージ
+### VRモード  
 ![イメージ1](https://github.com/knanaappdevelops/An-app-that-lets-you-date-Kaguranana_HP/blob/master/SimulatorScreenShot-iPhone8Plus_mini.png)  
-#### ARモード  
+### ARモード  
 ![イメージ2](https://github.com/knanaappdevelops/An-app-that-lets-you-date-Kaguranana_HP/blob/master/Simulator%20Screen%20Shot%20-%20iPhone%208%20Plus_mini.png)  
