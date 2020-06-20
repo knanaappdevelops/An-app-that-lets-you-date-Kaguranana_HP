@@ -15,6 +15,6 @@
  
 ### 概要イメージ
 #### VRモード  
-![イメージ1](https://github.com/knanaappdevelops/An-app-that-lets-you-date-Kaguranana_HP/blob/master/Simulator%20Screen%20Shot%20-%20iPad%20Pro%20(12.9-inch)%20(4th%20generation)%20-%202020-06-20%20at%2010.07.07.png)  
+![イメージ1](https://github.com/knanaappdevelops/An-app-that-lets-you-date-Kaguranana_HP/blob/master/SimulatorScreenShot-iPhone8Plus_mini.png)  
 #### ARモード  
-![イメージ2](https://github.com/knanaappdevelops/An-app-that-lets-you-date-Kaguranana_HP/blob/master/Simulator%20Screen%20Shot%20-%20iPad%20Pro%20(12.9-inch)%20(4th%20generation)%20-%202020-06-20%20at%2010.09.10.png)  
+![イメージ2](https://github.com/knanaappdevelops/An-app-that-lets-you-date-Kaguranana_HP/blob/master/Simulator%20Screen%20Shot%20-%20iPhone%208%20Plus_mini.png)  
