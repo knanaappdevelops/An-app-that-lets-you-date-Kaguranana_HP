@@ -4,11 +4,11 @@
 　このアプリは、ななかぐら/カグラナナより3Dモデルの提供を受けて制作されました。ななかぐら/カグラナナについての情報は以下のリンクを参照ください。
  
 ・ななかぐら/カグラナナyoutubeチャンネル  
-　https://www.youtube.com/channel/UCbfv8uuUXt3RSJGEwxny5Rw  
+　[チャンネル](https://www.youtube.com/channel/UCbfv8uuUXt3RSJGEwxny5Rw)  
 ・ななかぐら/カグラナナTwitterアカウント  
-　https://twitter.com/nana_kaguraaa  
+　[Twitter](https://twitter.com/nana_kaguraaa)  
 ・ななかぐら/カグラナナホームページ  
-　https://stellalucia.site/  
+　[HP](https://stellalucia.site/)  
  
 ## 機能
 　好きな場所で様々なポーズや表情をとらせることができます。通常のモデルに加えて、猫耳尻尾が付いたモデルを含んでいます。 
