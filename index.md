@@ -15,6 +15,6 @@
  
 ## 概要イメージ
 ### VRモード  
-![イメージ1](https://github.com/knanaappdevelops/An-app-that-lets-you-date-Kaguranana_HP/blob/master/SimulatorScreenShot-iPhone8Plus_mini.png)  
+![イメージ1](SimulatorScreenShot-iPhone8Plus_mini.png)  
 ### ARモード  
-![イメージ2](https://github.com/knanaappdevelops/An-app-that-lets-you-date-Kaguranana_HP/blob/master/Simulator%20Screen%20Shot%20-%20iPhone%208%20Plus_mini.png)  
+![イメージ2](Simulator%20Screen%20Shot%20-%20iPhone%208%20Plus_mini.png)  
